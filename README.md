@@ -11,6 +11,7 @@ The deep learning model used in this project is the Stable Diffusion model v2.
 2. Train the model with the style dataset filled with images of the skins of one type of Valorant's weapon from various angles of view.
 
 ## Notes 
-1. To run the TrainingTesting_code, you must create huggingface.co account and create the token
-2. Hugging Face Token link: https://huggingface.co/settings/tokens
-3. Don't forget to change the training image path to your personal training image path on your device
+1. Run the program on Google Colab using the GPU runtime type
+2. To run the TrainingTesting_code, you must create huggingface.co account and create the token
+3. Hugging Face Token link: https://huggingface.co/settings/tokens
+4. Don't forget to change the training image path to your personal training image path
